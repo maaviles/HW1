@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MCEViewController.h"
 
 @interface MCEAppDelegate : UIResponder <UIApplicationDelegate>
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E17315C1814FE1300FDE0C5 /* MCEViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E17315B1814FE1300FDE0C5 /* MCEViewController2.m */; };
 		3EE2D45618120B0300DD1FE1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EE2D45518120B0300DD1FE1 /* Foundation.framework */; };
 		3EE2D45818120B0300DD1FE1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EE2D45718120B0300DD1FE1 /* CoreGraphics.framework */; };
 		3EE2D45A18120B0300DD1FE1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EE2D45918120B0300DD1FE1 /* UIKit.framework */; };
@@ -34,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3E17315A1814FE1300FDE0C5 /* MCEViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCEViewController2.h; sourceTree = "<group>"; };
+		3E17315B1814FE1300FDE0C5 /* MCEViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCEViewController2.m; sourceTree = "<group>"; };
 		3EE2D45218120B0300DD1FE1 /* HW1 HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW1 HelloWorld.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EE2D45518120B0300DD1FE1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3EE2D45718120B0300DD1FE1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -117,6 +120,8 @@
 				3EE2D46718120B0400DD1FE1 /* Main.storyboard */,
 				3EE2D46A18120B0400DD1FE1 /* MCEViewController.h */,
 				3EE2D46B18120B0400DD1FE1 /* MCEViewController.m */,
+				3E17315A1814FE1300FDE0C5 /* MCEViewController2.h */,
+				3E17315B1814FE1300FDE0C5 /* MCEViewController2.m */,
 				3EE2D46D18120B0400DD1FE1 /* Images.xcassets */,
 				3EE2D45C18120B0300DD1FE1 /* Supporting Files */,
 			);
@@ -251,6 +256,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EE2D46618120B0400DD1FE1 /* MCEAppDelegate.m in Sources */,
+				3E17315C1814FE1300FDE0C5 /* MCEViewController2.m in Sources */,
 				3EE2D46218120B0300DD1FE1 /* main.m in Sources */,
 				3EE2D46C18120B0400DD1FE1 /* MCEViewController.m in Sources */,
 			);
@@ -461,6 +467,7 @@
 				3EE2D48618120B0500DD1FE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3EE2D48718120B0500DD1FE1 /* Build configuration list for PBXNativeTarget "HW1 HelloWorldTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +476,7 @@
 				3EE2D48918120B0500DD1FE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
