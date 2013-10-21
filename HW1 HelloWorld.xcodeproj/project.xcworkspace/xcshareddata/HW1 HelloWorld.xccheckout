@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13A5265E-F2C6-429A-AD4C-1873038B76C1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HW1 HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20F5E2A9-09B4-4D27-841E-0A9E419308D2</key>
+		<string>ssh://github.com/maaviles/Code-Fellows.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HW1 HelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20F5E2A9-09B4-4D27-841E-0A9E419308D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/maaviles/Code-Fellows.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20F5E2A9-09B4-4D27-841E-0A9E419308D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20F5E2A9-09B4-4D27-841E-0A9E419308D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW1 HelloWorld</string>
+		</dict>
+	</array>
+</dict>
+</plist>
